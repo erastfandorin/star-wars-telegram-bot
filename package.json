@@ -1,0 +1,25 @@
+{
+  "name": "star-wars-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erastfandorin/star-wars-telegram-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erastfandorin/star-wars-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/erastfandorin/star-wars-telegram-bot#readme"
+}
